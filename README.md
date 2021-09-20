@@ -1,6 +1,6 @@
 # README
 
-## Project Title
+## My Project Title
 
 Describe the project in general terms including the purpose of the project, data sources (with citation, if necessary), analysis methods, and main finding(s). 
 
