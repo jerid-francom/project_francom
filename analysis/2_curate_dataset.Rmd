@@ -19,7 +19,7 @@ biblio-style: apalike
 
 ```{r setup}
 # Script-specific options or packages
-
+pacman::p_load(tidyverse)
 ```
 
 ## Run
