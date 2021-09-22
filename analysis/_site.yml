@@ -23,7 +23,7 @@ navbar:
         href: article.pdf
   right:
     - icon: fa-github fa-lg
-      href: https://github.com # add directory to GitHub repository
+      href: https://github.com/jerid-francom/project_francom # add directory to GitHub repository
 output:
   bookdown::html_document2:
     theme: flatly
