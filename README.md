@@ -34,4 +34,3 @@ source("_pipeline.R")
 ```
 
 A browseable website can be accessed by opening the `docs/index.html` file in a browser.
-
