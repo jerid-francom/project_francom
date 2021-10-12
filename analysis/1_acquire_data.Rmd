@@ -30,6 +30,8 @@ pacman::p_load(tidyverse, rtweet)
 
 <!-- Steps involved in acquiring and organizing the original data -->
 
+View the `/data/original/open_subtitles/README.md` file for instructions on how to acquire the data. 
+
 
 ```{r}
 # set the Twitter Token
