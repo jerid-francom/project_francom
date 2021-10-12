@@ -31,6 +31,18 @@ pacman::p_load(tidyverse, rtweet)
 <!-- Steps involved in acquiring and organizing the original data -->
 
 
+```{r}
+# set the Twitter Token
+# ? I don't know where to get ...
+```
+
+
+```{r}
+
+```
+
+
+
 ## Finalize
 
 ### Log
