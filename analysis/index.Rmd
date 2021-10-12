@@ -9,9 +9,15 @@ biblio-style: apalike
 
 <!-- Add overview of the project here. -->
 
+... your project overview here ...
+
 ### Research area and problem
 
+... your project statements here ...
+
 ### Research aim and question
+
+... your project statements here ...
 
 ## Reproduce
 

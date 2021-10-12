@@ -11,20 +11,25 @@ biblio-style: apalike
 
 <!-- The aim of this script -->
 
+To acquire data from Twitter ...
+
 ### Usage
 
 <!-- How to run this script: what input it requires and output produced -->
+
+You need to have a Twitter API token. 
 
 ## Setup
 
 ```{r setup}
 # Script-specific options or packages
-pacman::p_load(tidyverse)
+pacman::p_load(tidyverse, rtweet)
 ```
 
 ## Run
 
 <!-- Steps involved in acquiring and organizing the original data -->
+
 
 ## Finalize
 
